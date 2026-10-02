@@ -106,4 +106,8 @@ Open `dashboard/retail_sales_dashboard.pbix` in Power BI Desktop
 ## 👤 Author
 **Thota Venkata Vishnu Vardhan**
 - GitHub: https://github.com/Venkatavishnuvardhanthota
+<<<<<<< HEAD
 - LinkedIn: https://www.linkedin.com/in/venkata-vishnu-vardhan-thota/
+=======
+- LinkedIn: https://www.linkedin.com/in/venkata-vishnu-vardhan-thota/
+>>>>>>> dca99e81196a06e5658450845ad5771f18d79881

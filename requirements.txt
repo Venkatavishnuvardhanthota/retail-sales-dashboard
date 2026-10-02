@@ -1,7 +1,16 @@
+<<<<<<< HEAD
 pandas
 numpy
 matplotlib
 seaborn
 openpyxl
 jupyter
+=======
+pandas
+numpy
+matplotlib
+seaborn
+openpyxl
+jupyter
+>>>>>>> dca99e81196a06e5658450845ad5771f18d79881
 nbformat
